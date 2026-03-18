@@ -35,7 +35,6 @@ markdown_extensions:
 language: ru
 nav:
   - Главная: index.md
-  - Руководство: docs.md
 
 validation:
   nav:
